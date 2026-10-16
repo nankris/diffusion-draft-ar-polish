@@ -1,0 +1,202 @@
+[
+ {
+  "id": "n01",
+  "topic": "why small teams ship faster than big ones"
+ },
+ {
+  "id": "n02",
+  "topic": "the hidden cost of too many dashboards"
+ },
+ {
+  "id": "n03",
+  "topic": "code review as a teaching tool"
+ },
+ {
+  "id": "n04",
+  "topic": "why your laptop fan spins during video calls"
+ },
+ {
+  "id": "n05",
+  "topic": "SQLite is underrated for side projects"
+ },
+ {
+  "id": "n06",
+  "topic": "what a CDN actually does"
+ },
+ {
+  "id": "n07",
+  "topic": "password managers vs memorized passphrases"
+ },
+ {
+  "id": "n08",
+  "topic": "the case for boring technology"
+ },
+ {
+  "id": "n09",
+  "topic": "why flaky tests erode trust"
+ },
+ {
+  "id": "n10",
+  "topic": "how to read a stack trace"
+ },
+ {
+  "id": "n11",
+  "topic": "dark mode and battery life on OLED screens"
+ },
+ {
+  "id": "n12",
+  "topic": "the first 10 minutes of an outage"
+ },
+ {
+  "id": "n13",
+  "topic": "why rewrites usually take longer than planned"
+ },
+ {
+  "id": "n14",
+  "topic": "local-first software and why it matters"
+ },
+ {
+  "id": "n15",
+  "topic": "what a vector database is, in plain words"
+ },
+ {
+  "id": "n16",
+  "topic": "the quiet value of good commit messages"
+ },
+ {
+  "id": "n17",
+  "topic": "rate limiting protects you and your users"
+ },
+ {
+  "id": "n18",
+  "topic": "why 'works on my machine' still happens"
+ },
+ {
+  "id": "n19",
+  "topic": "RSS is still a great way to read the web"
+ },
+ {
+  "id": "n20",
+  "topic": "what latency percentiles (p99) really tell you"
+ },
+ {
+  "id": "n21",
+  "topic": "feature flags make releases less scary"
+ },
+ {
+  "id": "n22",
+  "topic": "why battery percentages jump around"
+ },
+ {
+  "id": "n23",
+  "topic": "caching: the two hard problems joke, explained"
+ },
+ {
+  "id": "n24",
+  "topic": "open source maintainers and burnout"
+ },
+ {
+  "id": "n25",
+  "topic": "what a context window is for LLMs"
+ },
+ {
+  "id": "n26",
+  "topic": "keyboard shortcuts as a compounding habit"
+ },
+ {
+  "id": "n27",
+  "topic": "why docs rot and how to slow it"
+ },
+ {
+  "id": "n28",
+  "topic": "the difference between a bug and a missing feature"
+ },
+ {
+  "id": "n29",
+  "topic": "two-factor auth: SMS vs authenticator apps vs passkeys"
+ },
+ {
+  "id": "n30",
+  "topic": "why cloud bills surprise people"
+ },
+ {
+  "id": "n31",
+  "topic": "type systems as documentation that runs"
+ },
+ {
+  "id": "n32",
+  "topic": "how Wi-Fi gets slower in crowded buildings"
+ },
+ {
+  "id": "n33",
+  "topic": "on-call rotations that don't burn people out"
+ },
+ {
+  "id": "n34",
+  "topic": "why spreadsheets are the world's most used programming language"
+ },
+ {
+  "id": "n35",
+  "topic": "monorepo vs many repos"
+ },
+ {
+  "id": "n36",
+  "topic": "what quantization does to a language model"
+ },
+ {
+  "id": "n37",
+  "topic": "small scripts that save hours every week"
+ },
+ {
+  "id": "n38",
+  "topic": "why estimates are always wrong"
+ },
+ {
+  "id": "n39",
+  "topic": "backups: the 3-2-1 rule"
+ },
+ {
+  "id": "n40",
+  "topic": "what an API rate limit teaches about system design"
+ },
+ {
+  "id": "n41",
+  "topic": "terminal tools worth learning"
+ },
+ {
+  "id": "n42",
+  "topic": "the myth of the 10x engineer"
+ },
+ {
+  "id": "n43",
+  "topic": "how DNS lookups work in one minute"
+ },
+ {
+  "id": "n44",
+  "topic": "why SSDs wear out and what that means"
+ },
+ {
+  "id": "n45",
+  "topic": "incident postmortems without blame"
+ },
+ {
+  "id": "n46",
+  "topic": "prompt writing is mostly clear writing"
+ },
+ {
+  "id": "n47",
+  "topic": "edge computing vs just using a bigger server"
+ },
+ {
+  "id": "n48",
+  "topic": "accessibility features that help everyone"
+ },
+ {
+  "id": "n49",
+  "topic": "the tradeoff between speed and polish in shipping"
+ },
+ {
+  "id": "n50",
+  "topic": "learning to code in the era of AI assistants"
+ }
+]
