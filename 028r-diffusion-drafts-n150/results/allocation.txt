@@ -1,0 +1,8 @@
+2026-10-15
+Before: balance 181.30 CU; rate 3.08 CU/hr; active assignments 2.
+Attempt 1: colab new --gpu L4 -s codex-028r
+Allocation refused (precondition failed): too many active sessions or temporary usage/capacity limit.
+Attempt 2: same command, same refusal.
+Cleanup: colab stop -s codex-028r -> Session 'codex-028r' not found.
+After: balance 181.30 CU; rate 3.08 CU/hr; active assignments 2.
+No other sessions were modified. Experiment CU: 0.00.
