@@ -1,0 +1,29 @@
+
+<|channel>thought
+
+*   Topic: Calendar overload.
+*   Goal: Challenge a popular metric with an example.
+*   Format: Substack Note (60-100 words).
+*   Style: Plain text, one or two short paragraphs.
+*   Constraints: No hashtags, no title.
+
+    *   Metric to challenge: "Back-to-back meetings" or "Percentage of calendar filled."
+    *   Argument: A full calendar is often a sign of poor prioritization, not productivity.
+    *   Example: Having a day with 8 hours of meetings but not actually getting any deep work done.
+
+    *   *Draft 1:* We often celebrate "fully booked" calendars as a sign of high productivity, but a 100% utilization rate is usually just a metric of poor planning. If your day is back-to-back Zoom calls from nine to five, when do you actually execute the strategy you just discussed in those meetings? I've seen leaders brag about "busy" days while failing to move on core projects. We need to stop measuring success by activity and start measuring it by actual output.
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* One paragraph.
+    *   *Constraint check:* No hashtags, no title.
+    *   *Tone:* Thought-provoking/challenging.
+
+    "We often celebrate a 'fully booked' calendar as a sign of high productivity, but a 100% utilization rate is usually just a metric of poor planning. If your day is back-to-back meetings from nine to five, when do you actually execute the strategy you just discussed in those calls? I've seen leaders brag about being busy while failing to move the needle on core projects. We need to stop measuring success by sheer activity and start measuring it by actual output."
+
+    *   Word count: 89 words.
+    *   Paragraphs: One.
+    *   No hashtags/title.
+
+    "We often celebrate a 'fully booked' calendar as a sign of high productivity, but a 100% utilization rate is usually just a metric of poor planning. If your day is back-to-back meetings from nine to five, when do you actually execute the strategy you just discussed in those calls? I've seen leaders brag about being busy while failing to move the needle on core projects. We need to
+total time: 9672.30ms, time per step: 224.94ms (43 steps over 2 blocks, entropy-bound)
+throughput: 52.9 tok/s (512 tok in 9672.30ms), in-step parallel 1138 tok/s (256-tok canvas x 21.5 steps/block)

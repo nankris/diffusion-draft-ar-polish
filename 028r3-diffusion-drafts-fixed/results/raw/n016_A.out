@@ -1,0 +1,4 @@
+<|channel>================================thought
+<channel|>AI code review is lightning-fast at catching syntax errors and enforcing style guides, but it isn't a silver bullet. AI often misses nuanced business logic flaws or fails to spot architectural drift—things a human developer identifies instantly. This is why a manual fallback is essential. For high-stakes deployments or complex refactors, a human eye ensures context, security, and intent remain intact. Don't just ship code that technically works; use human oversight to ensure it actually fits your long-term vision. [end of text]
+
+

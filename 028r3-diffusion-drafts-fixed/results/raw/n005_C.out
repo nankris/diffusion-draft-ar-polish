@@ -1,0 +1,36 @@
+
+<|channel>thought
+
+*   Topic: Digital photo backups.
+*   Angle: A counterintuitive lesson from a hypothetical case.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Standard advice: Back up everything everywhere (3-2-1 rule).
+    *   Counterintuitive twist: Over-backing up or digital hoarding leads to losing the *meaning* of memories because you never actually look at the photos.
+    *   Hypothetical case: Someone with 50,000 photos across three cloud services who hasn't found a specific memory in years because they were too busy managing the "safety" of the files rather than the content.
+
+    *   *Draft 1:* I have a friend who spent years perfecting a triple-redundant backup system. He was so worried about the folder structures and syncing hard drives that he forgot to actually start looking at the photos. Last week, he searched for a photo of his daughter's first birthday and realized he hadn't opened that specific folder in a decade. The lesson? Total safety without curation is just a digital graveyard. If you spend all your time protecting the data, you lose the memory. (88 words)
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* No hashtags, no title, plain text, two paragraphs.
+    *   *Content check:* Counterintuitive? Yes (safety vs. curation/usage). Hypothetical case? Yes (the friend).
+
+    "I have a friend who spent years perfecting a triple-redundant backup system. He was so obsessed with folder structures and syncing hard drives that he forgot to actually look at the photos. Last week, he searched for a photo of his daughter's first birthday and realized he hadn't opened that folder in a decade. The lesson? Total safety without curation is just a digital graveyard. If you spend all your time protecting the data, you eventually lose the memory."
+
+    *   *Word count check again:*
+        1. I
+        2. have
+        3. a
+        4. friend
+        5. who
+        6. spent
+        7. years
+        8. perfecting
+        9. a
+        10. triple-redundant
+        11. backup
+
+total time: 9885.91ms, time per step: 224.68ms (44 steps over 2 blocks, entropy-bound)
+throughput: 51.8 tok/s (512 tok in 9885.91ms), in-step parallel 1139 tok/s (256-tok canvas x 22.0 steps/block)

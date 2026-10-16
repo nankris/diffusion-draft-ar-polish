@@ -1,0 +1,31 @@
+
+<|channel>thought
+
+*   Topic: Public library apps (e.g., Libby, Hoopla).
+*   Focus: Explaining when a manual fallback helps.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Library apps (Libby, Hoopla) are great for convenience.
+    *   Sometimes they fail (sync issues, de-listed books, glitches).
+    *   Manual fallback = checking the physical catalog, calling the branch, or using the library website.
+    *   Why? To ensure access to resources.
+
+    *   *Draft 1:* While digital library apps like Libby and Hoopla are incredible for instant reading, they can be finicky. Sometimes sync errors happen or a specific title goes missing from the digital queue. This is when a manual fallback becomes essential. Checking the library's physical card catalog or making a quick call to the local branch can ensure you aren't missing out on a book because of a technical glitch. Convenience is great, but human expertise is still the ultimate safety net.
+
+    *   *Word count check (Draft 1):* 82 words.
+    *   *Format check:* No hashtags, no title, one paragraph.
+
+    *   *Draft 2 (Refining for Substack tone):* Public library apps like Libby and Hoopla offer incredible convenience, but they aren't always foolproof. Sync glitches or de-listed titles can occasionally leave readers waiting in limbo. In these moments, having a manual fallback is vital. Checking the library’s physical catalog directly or calling the reference desk ensures you actually find the resources you need. Digital tools are fantastic helpers, but the human element remains our most reliable safety net when the technology fails us.
+
+    *   *Word count check (Draft 2):* 88 words.
+    *   *Constraint check:*
+        *   60-100 words? Yes (88).
+        *   Plain text? Yes.
+        *   One/two paragraphs? Yes (one).
+        *   No hashtags? Yes.
+        *   No title? Yes.
+        *   Manual fallback explanation? Yes.<channel|>Public library apps like Libby and Hoopla offer incredible convenience, but they aren't always foolproof. Sync glitches or de-listed
+total time: 7835.67ms, time per step: 230.46ms (34 steps over 2 blocks, entropy-bound)
+throughput: 65.3 tok/s (512 tok in 7835.67ms), in-step parallel 1111 tok/s (256-tok canvas x 17.0 steps/block)

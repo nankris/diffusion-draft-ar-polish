@@ -1,0 +1,6 @@
+0.00.066.451 I llama_completion: llama backend init
+0.00.066.468 I llama_completion: load the model and apply lora adapter, if any
+0.02.193.260 W load: control-looking token:    212 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.193.974 W load: control-looking token:     50 '<|tool_response>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.203.825 W load: control-looking token:      1 '<eos>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.237.809 W load: '</s>' is a normal token here, removing it from EOG list

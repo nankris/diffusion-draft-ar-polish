@@ -1,0 +1,40 @@
+{
+  "150": {
+    "superiority_min_wins": 88,
+    "power_p59": 0.5677996656236047,
+    "power_p60": 0.6631498581549298,
+    "power_p65": 0.9552223429728742,
+    "equivalence_power_p50": 0,
+    "equivalence_k_range": null
+  },
+  "200": {
+    "superiority_min_wins": 115,
+    "power_p59": 0.693664207987915,
+    "power_p60": 0.7868478242042398,
+    "power_p65": 0.9884357897542432,
+    "equivalence_power_p50": 0,
+    "equivalence_k_range": null
+  },
+  "857": {
+    "superiority_min_wins": 458,
+    "power_p59": 0.9995581285320095,
+    "power_p60": 0.9999567568505898,
+    "power_p65": 0.9999999999986453,
+    "equivalence_power_p50": 0.7812271280945654,
+    "equivalence_k_range": [
+      411,
+      446
+    ]
+  },
+  "1000": {
+    "superiority_min_wins": 532,
+    "power_p59": 0.9999081238151375,
+    "power_p60": 0.9999943110000906,
+    "power_p65": 0.9999999999999936,
+    "equivalence_power_p50": 0.8628319947293479,
+    "equivalence_k_range": [
+      477,
+      523
+    ]
+  }
+}

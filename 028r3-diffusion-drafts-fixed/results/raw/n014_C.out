@@ -1,0 +1,20 @@
+
+<|channel>thought
+*   Topic: Open source funding (convenience vs. control tradeoff).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Funding often comes from grants, corporate sponsorships, or venture capital (convenience).
+    *   However, this can mean losing control over the roadmap or de-prioritizing community-led needs.
+    *   The trade-off is financial stability vs. independence.
+
+    Funding open source projects is a constant balancing act between convenience and control. Accepting large corporate grants or venture capital provides the immediate resources needed to scale development and pay maintainers fairly. However, this convenience often comes with a hidden cost: the risk of shifting the roadmap to align with donor interests rather than the community's actual needs. True independence requires finding a sustainable path that grows without sacrificing the autonomy that makes open source valuable in the first place.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* One paragraph, no hashtags, no title.
+    *   *Content check:* Discusses convenience vs. control.
+
+    "Funding open source projects is a constant balancing act between convenience and control. Accepting large corporate grants or venture capital provides the immediate resources needed to scale development and pay maintainers fairly. However, this convenience often comes with a hidden cost—the risk of the roadmap shifting to align with donor interests rather than the community's needs. True independence requires finding a sustainable path that grows without sacrificing the autonomy that makes open source valuable in the first place."<channel|>Funding open source projects is a constant balancing act between convenience and control. Accepting large corporate grants or venture capital provides the immediate resources needed to scale development and pay maintainers fairly. However, this convenience often comes with a hidden cost—the risk of the roadmap shifting to align with donor interests rather than the community's needs. True independence requires finding a sustainable path that grows without sacrificing the autonomy that makes open source so valuable in the first place.
+total time: 7777.17ms, time per step: 228.74ms (34 steps over 2 blocks, entropy-bound)
+throughput: 65.8 tok/s (512 tok in 7777.17ms), in-step parallel 1119 tok/s (256-tok canvas x 17.0 steps/block)

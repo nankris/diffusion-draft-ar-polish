@@ -1,0 +1,28 @@
+
+<|channel>thought
+*   Topic: Public library apps (e.g., Libby, Hoopla).
+    *   Goal: Challenge a popular metric with an example.
+    *   Format: Substack Note.
+    *   Constraints: 60-100 words, plain text, 1-2 short paragraphs, no hashtags, no title.
+
+    *   Popular metric to challenge: "Digital checkouts" or "Circulation numbers."
+    *   Argument: High checkout numbers don't necessarily equate to high reading completion or deep engagement.
+    *   Example: Someone checking out five books but only finishing one, or the "digital graveyard" of books borrowed but never opened again.
+
+    *   *Draft 1:* We often celebrate the massive rise in digital checkouts on library apps like Libby as a sign of success. However, this metric can be misleading. A user might check out ten thrillers in a week but only finish one before the loan expires or they lose interest. If we only measure clicks rather than completion or deep engagement, we miss the reality of reading habits. We should start looking at what actually sticks instead of just counting the digital buttons pressed.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* Plain text, no hashtags, no title, one paragraph.
+    *   *Content check:* Challenges "digital checkouts" with the example of not finishing books.
+
+    "We often celebrate the surge in digital checkouts on apps like Libby as a sign of library health. However, this metric can be misleading. A user might check out five books in a single sitting but only finish one before the loan expires or they lose interest. If we only measure raw clicks rather than reading completion or sustained engagement, we miss the bigger picture. We need to value the stories that actually resonate over the volume of files borrowed."
+
+    *   *Word count:* 88 words.
+    *   *Paragraphs:* 1.
+    *   *Hashtags:* None.
+    *   *Title:* None.
+    *   *Range:* 60-100 words? Yes.
+
+    "We often celebrate the surge in digital checkouts on apps like Libby as a sign of library health. However, this metric can be misleading. A user might check out five books in a single sitting but only finish one before the loan expires or they lose interest. If we
+total time: 9315.12ms, time per step: 221.79ms (42 steps over 2 blocks, entropy-bound)
+throughput: 55.0 tok/s (512 tok in 9315.12ms), in-step parallel 1154 tok/s (256-tok canvas x 21.0 steps/block)

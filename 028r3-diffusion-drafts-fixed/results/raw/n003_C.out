@@ -1,0 +1,42 @@
+
+<|channel>thought
+
+*   Topic: Public library apps.
+*   Content: Describe a plausible failure and recovery.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Failure: A library app (like Libby/Hoopla) crashing during a high-demand release (e.g., a bestseller or a trending show).
+    *   Recovery: The library staff/server team fixes it, and users get access back.
+
+    *   *Draft 1:* Last week, our local library's digital app crashed right when the most-awaited memoir dropped, leaving everyone unable to download their borrowed e-books. It was a frustrating glitch that showed how much we rely on these digital bridges. A server sync glitch left thousands of readers waiting in limbo. Fortunately, the IT team worked overnight to restore the de-sync and clear the cache. By Saturday morning, the holds were moving and the stories were flowing again. Digital access is fragile, but the community behind it is resilient.
+
+    *   *Word count check:* 92 words.
+    *   *Constraint check:* No hashtags, no title, one or two paragraphs.
+    *   *Content check:* Failure (crash/glitch), Recovery (overnight fix).
+
+    Last week, our local library's digital app crashed right when the most-awaited memoir dropped, leaving everyone unable to download their borrowed e-books. It was a frustrating glitch that showed how much we rely on these digital bridges. A server sync error left thousands of readers waiting in limbo. Fortunately, the team worked overnight to restore the connection and clear the cache. By Saturday morning, the holds were moving and the stories were flowing again. Digital access is fragile, but the infrastructure behind it is resilient.
+
+    *   *Word count check:*
+        1. Last
+        2. week,
+        3. our
+        4. local
+        5. library's
+        6. digital
+        7. app
+        8. crashed
+        9. right
+        10. when
+        11. the
+        12. most-awaited
+        13. memoir
+        14. dropped,
+        15. leaving
+        16. everyone
+        17. unable
+        18. to
+        1
+total time: 9804.10ms, time per step: 222.82ms (44 steps over 2 blocks, entropy-bound)
+throughput: 52.2 tok/s (512 tok in 9804.10ms), in-step parallel 1149 tok/s (256-tok canvas x 22.0 steps/block)

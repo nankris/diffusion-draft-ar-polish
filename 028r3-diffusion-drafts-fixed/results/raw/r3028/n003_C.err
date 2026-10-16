@@ -1,0 +1,56 @@
+0.00.959.663 W load: control-looking token:    212 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.00.960.320 W load: control-looking token:     50 '<|tool_response>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.00.997.000 W load: '</s>' is a normal token here, removing it from EOG list
+0.05.662.739 I diffusion: -n 512 -> 2 blocks, n_ubatch=2560 n_batch=2560 n_ctx=2560 (canvas_length=256)
+0.05.662.749 I diffusion: --fit has no effect here; context is sized from -n and the canvas. Set -ngl / --n-cpu-moe to control device memory.
+0.05.668.588 W resolve_fused_ops: layer 5 is assigned to device CUDA0 but Flash Attention is assigned to device CPU (usually due to missing support)
+0.05.668.596 W resolve_fused_ops: Flash Attention not supported, set to disabled
+0.11.637.093 I diffusion_params: steps=128 schedule=0 algorithm=4 temperature=0.800 eps=0.001000 mask_token=4
+0.11.637.112 I diffusion_eb: max_steps=48 t=[0.400,0.800] entropy_bound=0.1000 stability=1 confidence=0.0050 kv_cache=on gpu_sampling=on sample_reduce=on
+0.11.638.879 W init: embeddings required but some input tokens were not marked as outputs -> overriding
+0.12.262.192 I 
+diffusion step: 0/48 [                                                  ] 0%0.12.448.857 I 
+diffusion step: 1/48 [=                                                 ] 2%0.12.640.051 I 
+diffusion step: 2/48 [==                                                ] 4%0.12.833.808 I 
+diffusion step: 3/48 [===                                               ] 6%0.13.033.412 I 
+diffusion step: 4/48 [====                                              ] 8%0.13.236.802 I 
+diffusion step: 5/48 [=====                                             ] 10%0.13.438.036 I 
+diffusion step: 6/48 [======                                            ] 12%0.13.638.848 I 
+diffusion step: 7/48 [=======                                           ] 14%0.13.839.698 I 
+diffusion step: 8/48 [========                                          ] 16%0.14.042.720 I 
+diffusion step: 9/48 [=========                                         ] 18%0.14.241.800 I 
+diffusion step: 10/48 [==========                                        ] 20%0.14.447.378 I 
+diffusion step: 11/48 [===========                                       ] 22%0.14.653.850 I 
+diffusion step: 12/48 [============                                      ] 25%0.14.861.622 I 
+diffusion step: 13/48 [=============                                     ] 27%0.15.068.685 I 
+diffusion step: 14/48 [==============                                    ] 29%0.15.273.075 I 
+diffusion step: 15/48 [===============                                   ] 31%0.15.478.517 I 
+diffusion step: 16/48 [================                                  ] 33%0.15.687.124 I 
+diffusion step: 17/48 [=================                                 ] 35%0.15.894.240 I 
+diffusion step: 18/48 [==================                                ] 37%0.16.103.806 I 
+diffusion step: 19/48 [===================                               ] 39%0.16.311.461 I 
+diffusion step: 20/48 [====================                              ] 41%0.16.516.445 I 
+diffusion step: 21/48 [=====================                             ] 43%0.16.723.812 I 
+diffusion step: 22/48 [======================                            ] 45%0.16.933.082 I 
+diffusion step: 23/48 [=======================                           ] 47%0.17.142.902 I 
+diffusion step: 24/48 [=========================                         ] 50%0.17.348.345 I 
+diffusion step: 25/48 [==========================                        ] 52%0.17.556.117 I 
+diffusion step: 26/48 [===========================                       ] 54%0.17.556.522 W init: embeddings required but some input tokens were not marked as outputs -> overriding
+0.18.141.575 I 
+diffusion step: 0/48 [                                                  ] 0%0.18.324.563 I 
+diffusion step: 1/48 [=                                                 ] 2%0.18.512.956 I 
+diffusion step: 2/48 [==                                                ] 4%0.18.707.321 I 
+diffusion step: 3/48 [===                                               ] 6%0.18.908.818 I 
+diffusion step: 4/48 [====                                              ] 8%0.19.112.575 I 
+diffusion step: 5/48 [=====                                             ] 10%0.19.320.292 I 
+diffusion step: 6/48 [======                                            ] 12%0.19.526.794 I 
+diffusion step: 7/48 [=======                                           ] 14%0.19.737.007 I 
+diffusion step: 8/48 [========                                          ] 16%0.19.950.483 I 
+diffusion step: 9/48 [=========                                         ] 18%0.20.163.368 I 
+diffusion step: 10/48 [==========                                        ] 20%0.20.376.308 I 
+diffusion step: 11/48 [===========                                       ] 22%0.20.589.609 I 
+diffusion step: 12/48 [============                                      ] 25%0.20.803.108 I 
+diffusion step: 13/48 [=============                                     ] 27%0.21.015.578 I 
+diffusion step: 14/48 [==============                                    ] 29%0.21.229.374 I 
+diffusion step: 15/48 [===============                                   ] 31%0.21.442.108 I 
+diffusion step: 16/48 [================                                  ] 33%

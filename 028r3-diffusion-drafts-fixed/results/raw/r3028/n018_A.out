@@ -1,0 +1,6 @@
+<|channel>thought
+<channel|>We often measure open-source health through GitHub stars or download counts, but these metrics are vanity plays that fail to capture true sustainability.
+
+A project can have 10,000 stars and still be one critical bug away from total collapse because those stars represent passive appreciation, not active contribution or financial support. High download numbers often mask a "dependency trap" where users consume code without reinvesting in its maintenance. If you want to measure real health, look at contributor retention and funding diversity instead. [end of text]
+
+

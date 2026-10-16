@@ -1,0 +1,21 @@
+Reading additional input from stdin...
+OpenAI Codex v0.162.1
+--------
+workdir: /workspace/work/tig
+model: gpt-6.1-sol
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: none
+reasoning summaries: none
+session id: 01a14217-9657-7aa0-9331-7bcda19562d7
+--------
+user
+Return only this JSON array, without using tools: [{"id":"smoke","winner":"X","reason":"format check"}]
+warning: Codex could not find bubblewrap on PATH. Install bubblewrap with your OS package manager. See the sandbox prerequisites: https://developers.openai.com/codex/concepts/sandboxing#prerequisites. Codex will use the bundled bubblewrap in the meantime.
+2026-10-16T00:23:26.432629Z ERROR rmcp::transport::worker: worker quit with fatal: Transport channel closed, when AuthRequired(AuthRequiredError { www_authenticate_header: "Bearer resource_metadata=\"https://codex-app.tldraw.xyz/.well-known/oauth-protected-resource/mcp\", scope=\"openid profile email offline_access\"" })
+codex
+[{"id":"smoke","winner":"X","reason":"format check"}]
+tokens used
+1,883
+[{"id":"smoke","winner":"X","reason":"format check"}]

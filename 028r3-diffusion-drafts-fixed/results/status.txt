@@ -1,0 +1,53 @@
+NVIDIA L4
+/content/r027/status DG_DL_DONE 0
+G4_DL_DONE 0
+
+/content/r027/build.log te-instances/fattn-mma-f16-instance-ncols1_2-ncols2_8.cu.o
+[ 42%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_32-ncols2_1.cu.o
+[ 42%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_32-ncols2_2.cu.o
+[ 42%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_4-ncols2_16.cu.o
+[ 42%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_4-ncols2_2.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_4-ncols2_4.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_4-ncols2_8.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_64-ncols2_1.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_8-ncols2_1.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_8-ncols2_2.cu.o
+[ 44%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_8-ncols2_4.cu.o
+[ 46%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/fattn-mma-f16-instance-ncols1_8-ncols2_8.cu.o
+[ 46%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/mmq-instance-iq1_s.cu.o
+[ 46%] Building CUDA object ggml/src/ggml-cuda/CMakeFiles/ggml-cuda.dir/template-instances/mmq-instance-iq2_s.cu.o
+
+/content/r027/dl_dg.log 
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Still waiting to acquire lock on /content/m/dg/.cache/huggingface/download/diffusiongemma-26B-A4B-it-Q4_K_M.gguf.lock (elaps
+Fetching 1 files: 100%|██████████| 1/1 [00:48<00:00, 48.39s/it]
+Fetching 1 files: 100%|██████████| 1/1 [00:48<00:00, 48.39s/it]
+[32m✓ Downloaded[0m
+  path: /content/m/dg
+
+/content/r027/dl_g4.log 
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+Fetching 1 files: 100%|██████████| 1/1 [00:48<00:00, 48.99s/it]
+Fetching 1 files: 100%|██████████| 1/1 [00:48<00:00, 49.00s/it]
+[32m✓ Downloaded[0m
+  path: /content/m/g4
+
+/content/setup.log + LOG=/content/r027
++ mkdir -p /content/r027
++ cd /content
++ git clone -q https://github.com/ggml-org/llama.cpp
++ pip install -q -U 'huggingface_hub[cli]' hf_transfer
++ hf download unsloth/diffusiongemma-26B-A4B-it-GGUF --include '*Q4_+ hf download unsloth/diffusiong+ echo 'DG_DL_DONE 0'
++ hf download unsloth/gemma-4-26B-A4B-it-GGUF --include gemma-4-26B-A4B-it-UD-Q4_K_M.gguf --local-dir /content/m/g4
++ cd llama.cpp
++ git fetch -q origin pull/24423/head:diffusiongemma
++ git checkout -q diffusiongemma
++ git log -1 '--format=%H %cd %s'
++ cmake -B build -DGGML_CUDA=ON -DCMAKE_CUDA_ARCHITECTURES=89 -DLLAMA_CURL=OFF
+++ nproc
++ cmake --build build -j12 --config Release --target llama-diffusion-cli llama-cli llama-bench llama-completion
++ echo 'G4_DL_DONE 0'
+
+   7961    7743 bash /content/setup.sh
+   8884    7961 /usr/local/lib/python3.13/dist-packages/cmake/data/bin/cmake --build build -j12 --config Release --target llama-diffusion-cli llama-cli llama-bench llama-completion
+  12803    7743 /bin/sh -c ps -eo pid,ppid,args | grep -E "setup.sh|cmake --build|hf download" | head -15
+  12805   12803 grep -E setup.sh|cmake --build|hf download

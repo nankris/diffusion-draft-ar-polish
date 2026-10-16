@@ -1,0 +1,15 @@
++ LOG=/content/setup_logs
++ mkdir -p /content/setup_logs
++ cd /content
++ git clone -q https://github.com/ggml-org/llama.cpp
++ pip install -q -U 'huggingface_hub[cli]' hf_transfer
++ hf download unsloth/diffusiongemma-26B-A4B-it-GGUF --include '*Q4_K_M*' --local-dir /content/m/dg
++ echo 'DG_DL_DONE 0'
++ hf download unsloth/gemma-4-26B-A4B-it-GGUF --include gemma-4-26B-A4B-it-UD-Q4_K_M.gguf --local-dir /content/m/g4
++ cd llama.cpp
++ git fetch -q origin pull/24423/head:diffusiongemma
++ git checkout -q diffusiongemma
++ git log -1 '--format=%H %cd %s'
++ cmake -B build -DGGML_CUDA=ON -DCMAKE_CUDA_ARCHITECTURES=native -DLLAMA_CURL=OFF
++ echo 'G4_DL_DONE 0'
++ cmake --build build -j6 --config Release --target llama-diffusion-cli llama-cli llama-bench llama-completion

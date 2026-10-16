@@ -1,0 +1,8 @@
+Topic: password recovery: explain when a manual fallback helps
+
+Here is a rough draft of a Substack Note:
+"""
+Automated password recovery systems are great until they aren't. If you lose access to both your primary email and your phone number, standard workflows hit a dead end. This is where a manual fallback becomes essential. A process involving human review or formal identity verification ensures that legitimate users aren't permanently locked out of their digital lives. For high-stakes accounts, manual intervention provides a vital safety net that algorithms alone simply cannot offer, balancing security with actual accessibility.
+"""
+
+Polish it: fix errors, sharpen the wording and the hook, keep it 60-100 words, plain text, no hashtags.

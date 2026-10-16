@@ -1,0 +1,25 @@
+
+<|channel>thought
+*   Topic: Subscription audits (offering a beginner habit).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Why it matters: People lose money on forgotten subscriptions.
+    *   The habit: Monthly review of bank statements.
+    *   Benefit: Saving money, decluttering.
+
+    *   *Draft 1:* We all lose dollars every month on services we no longer use. The easiest habit to start today is a five-minute subscription audit on the first of every month. Just open your banking app, scroll through the recurring charges, and cancel anything you haven't touched in the last 30 days. It’s not about deprivation; it’s about reclaiming your resources and your mental space. Small checks like this add up to significant savings over time.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* No title, no hashtags, one paragraph.
+    *   *Tone:* Helpful, beginner-friendly.
+
+    *   "We all lose dollars every month on services we no longer use. The easiest habit to start today is a five-minute subscription audit on the first of every month. Just open your banking app, scroll through the recurring charges, and cancel anything you haven't touched in the last 30 days. It’s not about deprivation; it’s about reclaiming your resources and your mental space. Small checks like this add up to significant savings over time."
+
+    *   Word count: 82 words.
+    *   Plain text? Yes.
+    *   No hashtags? Yes.
+    *   No title? Yes.<channel|>We all lose dollars every month on services we no longer use. The easiest habit to start today is a five-minute subscription audit on the first of every month. Just open your banking app, scroll through the recurring charges, and cancel anything you haven't touched or used in the last 30 days. It’s not about deprivation; it’s about reclaiming your resources and your mental space. Small checks like this add up to significant savings over time.
+total time: 6902.44ms, time per step: 230.08ms (30 steps over 2 blocks, entropy-bound)
+throughput: 74.2 tok/s (512 tok in 6902.44ms), in-step parallel 1113 tok/s (256-tok canvas x 15.0 steps/block)

@@ -1,0 +1,26 @@
+
+<|channel>thought
+
+*   Topic: Online course completion: identifying an accessibility blind spot.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Structure: Plain text, one or two short paragraphs.
+*   Exclusions: No hashtags, no title.
+
+    *   Many creators focus on completion rates but forget *who* is finishing.
+    *   If a course isn't navigable by screen readers or lacks captions, the "completion rate" is artificially low or misleading.
+    *   Accessibility isn't a "nice-to-have"; it's the foundation of ensuring everyone can reach the finish line.
+
+    We often celebrate high completion rates, but we rarely ask who is left behind along the way. If your course isn't navigable via screen readers or lacks accurate transcripts for video content, you're inadvertently excluding a segment of your audience before they even hit module one. We need to move beyond just making great content and start auditing for inclusive design. True engagement isn't just about the curriculum; it's about ensuring every student can actually cross the finish line.
+
+    *Word count check:*
+    "We often celebrate high completion rates, but we rarely ask who is left behind along the way. If your course isn't navigable via screen readers or lacks accurate transcripts for video content, you're inadvertently excluding a segment of your audience before they even hit module one. We need to move beyond just making great content and start auditing for inclusive design. True engagement isn't just about the curriculum; it's about ensuring every student can actually cross the finish line."
+    -> 82 words. (Perfect)
+
+    - 60-100 words? Yes (82).
+    - Plain text? Yes.
+    - One or two paragraphs? Yes (two).
+    - No hashtags? Yes.
+    - No title? Yes.<channel|>We often celebrate high completion rates, but we rarely ask who is left behind along the way. If your course isn't navigable via screen readers or lacks accurate transcripts, you're inadvertently excluding a segment of your audience before they even hit module one. We need to move beyond just making great content and start auditing for inclusive design. True engagement isn't just about the curriculum; it's about ensuring every student has the tools to actually cross the finish line.
+total time: 7046.00ms, time per step: 227.29ms (31 steps over 2 blocks, entropy-bound)
+throughput: 72.7 tok/s (512 tok in 7046.00ms), in-step parallel 1126 tok/s (256-tok canvas x 15.5 steps/block)

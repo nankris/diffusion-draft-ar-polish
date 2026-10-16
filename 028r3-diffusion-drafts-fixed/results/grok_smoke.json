@@ -1,0 +1,29 @@
+{
+  "text": "[{\"id\":\"smoke\",\"winner\":\"X\",\"reason\":\"format check\"}]",
+  "stopReason": "end_turn",
+  "sessionId": "01a14217-943f-70d1-a6c7-40b1e8367c85",
+  "requestId": "228c5ea7-3a99-425f-b90c-823ed3ecc22b",
+  "cwd": "/workspace/work/tig",
+  "thought": "The user wants only the JSON array returned, without using tools.\n\nThis is a format check. I will output the exact JSON array.",
+  "usage": {
+    "input_tokens": 6705,
+    "cache_read_input_tokens": 10112,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 545,
+    "reasoning_tokens": 527,
+    "total_tokens": 17362
+  },
+  "num_turns": 1,
+  "total_cost_usd": 0.00739024,
+  "total_cost_usd_ticks": 73902400,
+  "modelUsage": {
+    "grok-4.7-build": {
+      "inputTokens": 6705,
+      "outputTokens": 545,
+      "cacheReadInputTokens": 10112,
+      "cacheCreationInputTokens": 0,
+      "modelCalls": 1,
+      "costUSD": 0.00739024
+    }
+  }
+}

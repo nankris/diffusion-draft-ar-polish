@@ -1,0 +1,1 @@
+dd7f73b19deb9e79dd441904cf0158af459cd034 Thu Oct 15 10:24:33 2026 -0700 tests : set the diffusion-gemma SWA pattern in its own block

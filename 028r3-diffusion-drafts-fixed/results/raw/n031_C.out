@@ -1,0 +1,25 @@
+
+<|channel>thought
+*   Topic: Digital photo backups: identifying an accessibility blind spot.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Structure: Plain text, one or two short paragraphs.
+    *   Constraints: No hashtags, no title.
+
+    *   What is the accessibility blind spot in photo backups? Usually, it's about alt-text or metadata. People back up the files but don't describe what is inside, making the memories inaccessible to visually impaired users who use screen readers when they try to share or view those debacked-up photos later.
+
+    *   *Draft 1:* We spend so much time backing up thousands of family photos to the cloud, but we often ignore a major blind spot: accessibility. If you aren't adding metadata or descriptions, those digital memories remain invisible to friends or family members who use screen readers. A backup isn't just about storage space; it's about usability. We need to start prioritizing adding alt text during the upload process so our digital legacies are actually readable by everyone.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* One paragraph, no hashtags, no title.
+    *   *Tone check:* Informative/thought-provoking.
+
+    "We spend so much time backing up thousands of family photos to the cloud, but we often ignore a major blind spot: accessibility. If you aren't adding metadata or descriptions, those digital memories remain invisible to friends or family members who rely on screen readers. A true backup isn't just about storage space; it's about usability. We need to start prioritizing alt text during the curation process so that our digital legacies are actually accessible to everyone."
+
+    *   *Word count:* 85 words. (Perfect range: 60-100).
+    *   *No Title/Hashtags:* Checked.
+    *   *One/Two paragraphs:* Checked.
+
+    "We spend so much time backing up thousands of family photos to the cloud, but we often ignore a major blind spot: accessibility. If you aren't adding metadata or descriptions, those digital memories remain invisible to friends or family members who rely on screen readers. A true backup isn't just about storage space; it's about usability. We need to start prioritizing alt text during the curation process so that our digital
+total time: 7761.91ms, time per step: 221.77ms (35 steps over 2 blocks, entropy-bound)
+throughput: 66.0 tok/s (512 tok in 7761.91ms), in-step parallel 1154 tok/s (256-tok canvas x 17.5 steps/block)

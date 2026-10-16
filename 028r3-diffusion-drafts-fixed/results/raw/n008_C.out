@@ -1,0 +1,23 @@
+
+<|channel>thought
+
+*   Topic: Calendar overload.
+*   Goal: Offer a useful beginner habit.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Structure: Plain text, one or two short paragraphs.
+*   Exclusions: No hashtags, no title.
+
+    *   Problem: Too many meetings/tasks, no breathing room.
+    *   Solution/Habit: "Time blocking" or "Buffer zones" or "No-meeting Wednesdays."
+    *   Let's go with "Buffer zones" because it's easy for beginners to start.
+
+    Does your calendar look like a solid wall of back-to-back meetings? It’s easy to feel burnt out when there’s zero gap between tasks. A simple beginner habit to fix this is scheduling "buffer zones." Block out just 15 minutes before and after every major call. This gives you time to actually process notes, grab water, or just breathe. It transforms your schedule from a stressful list of demands into a manageable flow. Start small today and reclaim your focus.
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* Plain text, one paragraph, no hashtags, no title.
+    *   *Content check:* Addresses calendar overload and offers a beginner habit.
+
+    Does your calendar look like a solid wall of back-to-back meetings? It’s easy to feel burnt out when there’s zero gap between tasks. A simple beginner habit to fix this is scheduling "buffer zones." Block out just 15 minutes before and after every major call. This gives you time to actually process notes, grab water, or just breathe. It transforms your schedule from a stressful list of demands into a manageable flow. Start small today and reclaim your focus.<channel|>Does your calendar look like a solid wall of back-to-back meetings? It’s easy to feel burnt out when there’s zero gap between tasks. A simple beginner habit to fix this is scheduling "buffer zones." Block out just 15 minutes before and after every major call. This gives you time to actually process notes, grab water, or just breathe. It transforms your schedule from a stressful list of demands into a manageable flow. Start small today and reclaim your focus.
+total time: 7311.29ms, time per step: 228.48ms (32 steps over 2 blocks, entropy-bound)
+throughput: 70.0 tok/s (512 tok in 7311.29ms), in-step parallel 1120 tok/s (256-tok canvas x 16.0 steps/block)

@@ -1,0 +1,8 @@
+<|channel>thought
+<channel|>Password recovery is the ultimate tug-of-war between convenience and control. 
+
+When we make recovery seamless—using email links or SMS codes—we prevent user lockout, but we also create a backdoor for attackers who compromise those secondary accounts. On the other hand, high-security methods like manual recovery keys offer ironclad protection, yet they risk permanent data loss if a single key is misplaced. 
+
+In product design, we are forced to choose: do we prioritize frictionless access or absolute security? [end of text]
+
+

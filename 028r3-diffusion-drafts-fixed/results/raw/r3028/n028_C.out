@@ -1,0 +1,26 @@
+
+<|channel>thought
+*   Topic: Password recovery (specifically when manual fallback helps).
+    *   Format: Substack Note.
+    *   Word count: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Automated recovery (email/SMS) is standard but fails.
+    *   Failure cases: lost access to email, hacked phone numbers, de-activated accounts.
+    *   Manual fallback (human review, ID verification) ensures the user isn't permanently locked out forever.
+    *   Importance of balancing security vs. accessibility.
+
+    Automated password recovery systems are great until they aren't. If you lose access to both your email and your phone number, standard workflows hit a dead end. This is where a manual fallback becomes essential. A process involving human review or document-based identity verification ensures that legitimate users aren't permanently locked out of their digital lives. For high-stakes accounts, manual intervention provides a safety net that algorithms alone simply cannot offer.
+
+    *   *Word count check:* 82 words.
+    *   *Format:* One paragraph.
+    *   *Constraints:* No hashtags, no title, plain text.
+    *   *Content:* Explains when manual fallback helps.
+
+    Automated password recovery systems are great until they aren't. If you lose access to both your email and your phone number, standard workflows hit a dead end. This is where a manual fallback becomes essential. A process involving human review or document-based identity verification ensures that legitimate users aren't permanently locked out of their digital lives. For high-stakes accounts, manual intervention provides a vital safety net that algorithms alone simply cannot offer.
+
+    *   Word count: 83 words.
+    *   No hashtags/title? Yes.
+    *   One paragraph? Yes.<channel|>Automated password recovery systems are great until they aren't. If you lose access to both your primary email and your phone number, standard workflows hit a dead end. This is where a manual fallback becomes essential. A process involving human review or formal identity verification ensures that legitimate users aren't permanently locked out of their digital lives. For high-stakes accounts, manual intervention provides a vital safety net that algorithms alone simply cannot offer, balancing security with actual accessibility.
+total time: 8688.18ms, time per step: 222.77ms (39 steps over 2 blocks, entropy-bound)
+throughput: 58.9 tok/s (512 tok in 8688.18ms), in-step parallel 1149 tok/s (256-tok canvas x 19.5 steps/block)

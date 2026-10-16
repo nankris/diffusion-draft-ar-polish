@@ -1,0 +1,21 @@
+
+<|channel>thought
+*   Topic: Personal knowledge bases (PKBs).
+    *   Focus: When a manual fallback helps.
+    *   Format: Substack Note.
+    *   Constraints: 60-100 words, plain text, 1-2 short paragraphs, no hashtags, no title.
+
+    *   Why go manual? Usually, digital PKBs (Obsidian, Notion, etc.) are great for search and storage. But manual fallbacks (handwriting, physical cards, de-digitalizing) help when you need deep focus, de-clutter, or when "digital hoarding" becomes a problem. It forces synthesis of information rather than just copy-pasting links.
+
+    While digital knowledge bases are great for search, they often become graveyards for unthought links. This is where a manual fallback helps. Writing in a notebook or using physical index cards forces you to compress information rather than just copying and pasting. It slows down the cognitive process enough to ensure you are actually synthesizing the ideas rather than just storing them. If your digital system feels cluttered and hollow, go back to pen and paper to find the clarity again.
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* One paragraph.
+    *   *Constraint check:* No hashtags, no title.
+    *   *Content check:* Explains when manual fallback helps.
+
+    "While digital knowledge bases are great for searchability, they often turn into digital graveyards for unthought links. This is where a manual fallback helps. Writing in a notebook or using physical cards forces you to compress information rather than just copying and pasting. It slows down the cognitive process enough to ensure you are actually synthesizing the ideas rather than just archiving them. If your digital system feels cluttered and hollow, returning to pen and paper is often the best way to rediscover true clarity."
+
+    Word count: 91 words. (Perfect).<channel|>While digital knowledge bases are great for searchability, they often turn into digital graveyards for unthought links. This is where a manual fallback helps. Writing in a notebook or using physical cards forces you to compress information rather than just copying and pasting. It slows down the cognitive process enough to ensure you are actually synthesizing the ideas rather than just archiving them. If your digital system feels cluttered and hollow, returning to pen and paper is often the best way to rediscover true clarity.
+total time: 8927.86ms, time per step: 223.20ms (40 steps over 2 blocks, entropy-bound)
+throughput: 57.3 tok/s (512 tok in 8927.86ms), in-step parallel 1147 tok/s (256-tok canvas x 20.0 steps/block)

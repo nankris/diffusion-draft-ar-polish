@@ -1,0 +1,40 @@
+
+<|channel>thought
+
+*   Topic: Public library apps.
+*   Content: Describe a small reversible experiment.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   What are library apps? (Libby, Hoopla, etc.)
+    *   What is a reversible experiment? Borrowing something that can be returned/canceled without cost, or de-risking reading/access habits.
+    *   Idea: Trying a new genre without commitment.
+
+    *   *Idea 1:* I downloaded a random audiobook on Libby today. If I don't like it, I just return it. It's free and risk-free.
+    *   *Idea 2:* I've started an experiment with library apps. I borrow books I'd never buy. If the book doesn't hook me in ten pages, I return it immediately. It's a low-stakes way to de-clutter without the guilt of a wasted purchase.
+
+    *   *Drafting:* I’ve started a small, reversible experiment using public library apps like Libby. Instead of committing to a long series, I borrow one random title from a genre I usually ignore. If the book doesn't grab me within the first twenty pages, I hit return and move on. It’s a surprisingly low-stakes way to discover new interests without the financial cost or the mental clutter of an unfinished book sitting on my nightstand.
+
+    *   *Word count check:*
+        1. I’ve (1)
+        2. started (2)
+        3. a (3)
+        4. small, (4)
+        5. reversible (5)
+        6. experiment (6)
+        7. using (7)
+        8. public (8)
+        9. library (9)
+        10. apps (10)
+        11. like (11)
+        12. Libby. (12)
+        13. Instead (13)
+        14. of (14)
+        15. committing (15)
+        16. to (16)
+        17. a (17)
+        18. long (18)
+        19. series,
+total time: 8238.51ms, time per step: 222.66ms (37 steps over 2 blocks, entropy-bound)
+throughput: 62.1 tok/s (512 tok in 8238.51ms), in-step parallel 1150 tok/s (256-tok canvas x 18.5 steps/block)

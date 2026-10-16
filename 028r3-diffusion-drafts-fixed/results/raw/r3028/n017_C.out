@@ -1,0 +1,28 @@
+
+<|channel>thought
+*   Topic: Online course completion.
+    *   Content: A plausible failure and recovery.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Failure: Getting overwhelmed by a long syllabus, losing momentum halfway through, and quitting or stalling.
+    *   Recovery: Breaking it down into tiny tasks, setting a daily timer, and finally finishing.
+
+    *   *Draft 1:* I signed up for a data science bootcamp last year and hit a wall month three. The math felt impossible, and I just left the tab open for weeks. I felt like I wasn't cut out for it. But then I decided to commit to just fifteen minutes a day. That tiny shift broke the paralysis of analysis. Eventually, I finally finished the certificate last week. It wasn't about speed; it was about just showing up when it felt hard.
+    *   *Word count check:* 86 words.
+    *   *Format check:* Plain text, no hashtags, no title, two paragraphs.
+    *   *Content check:* Plausible failure (overwhelmed) and recovery (tiny steps).
+
+    I signed up for a data science bootcamp last year and hit a wall month three. The math felt impossible, and I just left the tab open for weeks. I felt like I wasn't cut out for it.
+
+    But then I decided to commit to just fifteen minutes a day. That tiny shift broke the paralysis of analysis. Eventually, I finally finished the certificate last week. It wasn't about speed; it was about just showing up when it felt hard.
+
+    *   Word count: 86 words. (Fits 60-100 range).
+    *   No hashtags.
+    *   No title.
+    *   One or two paragraphs.<channel|>I signed up for a data science bootcamp last year and hit a wall month three. The math felt impossible, and I just left the tab open for weeks. I felt like I wasn't cut out for it anymore.
+
+But then I decided to commit to just fifteen minutes a day. That tiny shift broke the paralysis of analysis. Eventually, I finally finished the certificate last week. It wasn't about speed; it was about just showing up when it felt
+total time: 8437.96ms, time per step: 228.05ms (37 steps over 2 blocks, entropy-bound)
+throughput: 60.7 tok/s (512 tok in 8437.96ms), in-step parallel 1123 tok/s (256-tok canvas x 18.5 steps/block)

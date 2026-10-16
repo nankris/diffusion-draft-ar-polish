@@ -1,0 +1,24 @@
+
+<|channel>thought
+*   Topic: Home energy dashboards: identifying an accessibility blind spot.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Structure: plain text, one short paragraph or two.
+    *   Constraints: No hashtags, no title.
+
+    *   Home energy dashboards are great for tracking usage.
+    *   However, they often ignore accessibility (color blindness, screen reader compatibility, cognitive load/complexity).
+    *   If the data isn't accessible, we aren't truly helping everyone de-carbonize or save money.
+
+    We're obsessed with home energy dashboards to slash carbon footprints, but we're missing a massive blind spot: accessibility. Most of these interfaces rely heavily on complex color-coded graphs and dense data visualizations that are impossible for people with visual impairments or cognitive disabilities to navigate. If we want a truly inclusive energy transition, our tools need to move beyond just flashy aesthetics. A dashboard that isn't accessible to everyone isn't just flawed—it leaves people behind.
+
+    *   *Word count check:* 88 words.
+    *   *Format:* Plain text, one paragraph.
+    *   *Constraints:* No hashtags, no title.
+    *   *Content:* Addresses the blind spot (accessibility).
+
+    "We're obsessed with home energy dashboards to slash carbon footprints, but we're missing a massive blind spot: accessibility. Most of these interfaces rely heavily on complex color-coded graphs and dense data visualizations that are difficult for people with visual impairments or cognitive disabilities to navigate. If we want a truly inclusive energy transition, our tools must move beyond just flashy aesthetics. A dashboard that isn't accessible to everyone isn't just flawed—it leaves vulnerable users behind."
+
+    *Word count:* 87 words. Perfect.<channel|>We're obsessed with home energy dashboards to slash carbon footprints, but we're missing a massive blind spot: accessibility. Most of these interfaces rely heavily on complex color-coded graphs and dense data visualizations that are difficult for people with visual impairments or cognitive disabilities to navigate. If we want a truly inclusive energy transition, our tools must move beyond just flashy aesthetics. A dashboard that isn't accessible to everyone isn't just flawed—it leaves vulnerable users behind.
+total time: 6627.76ms, time per step: 236.71ms (28 steps over 2 blocks, entropy-bound)
+throughput: 77.3 tok/s (512 tok in 6627.76ms), in-step parallel 1082 tok/s (256-tok canvas x 14.0 steps/block)

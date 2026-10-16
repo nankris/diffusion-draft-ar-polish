@@ -1,0 +1,52 @@
+[
+  {
+    "id": "n011",
+    "winner": "X",
+    "reason": "Names a less obvious cost, social maintenance, with concrete tasks; Y restates familiar security and dependency upkeep in clich\u00e9s."
+  },
+  {
+    "id": "n012",
+    "winner": "Y",
+    "reason": "Credible homeowner failures (plugs, CT clamps, broken integrations) and a sharp sysadmin insight; X\u2019s data-drift label is looser."
+  },
+  {
+    "id": "n013",
+    "winner": "X",
+    "reason": "Specific visuals and a fair barrier claim with real stakes; Y overclaims impossibility and who must participate most."
+  },
+  {
+    "id": "n014",
+    "winner": "Y",
+    "reason": "A single plain-text note that states both sides of the tradeoff; X is unfinished meta options with markdown, not a note."
+  },
+  {
+    "id": "n015",
+    "winner": "X",
+    "reason": "Clear mechanisms on both sides and a useful per-task rule; Y\u2019s Slack/Loom color ends in a vaguer sweet spot."
+  },
+  {
+    "id": "n016",
+    "winner": "Y",
+    "reason": "Credible split of labor and a precise when (design regressions, edge cases); X overclaims that humans spot drift instantly."
+  },
+  {
+    "id": "n017",
+    "winner": "X",
+    "reason": "More specific failure and recovery: Python puzzles, a three-week stop, and an hour cut to fifteen minutes with coffee."
+  },
+  {
+    "id": "n018",
+    "winner": "X",
+    "reason": "Stars-versus-support example ties the bad metric to funding; Y\u2019s unsupported 95% typo stat is less credible."
+  },
+  {
+    "id": "n019",
+    "winner": "X",
+    "reason": "Names calendar density and shows it with fifteen 30-minute syncs; Y leans on slogans and a vague leader anecdote."
+  },
+  {
+    "id": "n020",
+    "winner": "Y",
+    "reason": "The hidden cost is sharper: capture as debt and the load of stale ideas, not only time spent tagging."
+  }
+]

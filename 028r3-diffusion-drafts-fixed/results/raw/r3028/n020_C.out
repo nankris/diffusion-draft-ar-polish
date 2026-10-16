@@ -1,0 +1,25 @@
+
+<|channel>thought
+
+*   Topic: Personal knowledge bases (PKBs).
+*   Angle: Explain a hidden maintenance cost.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Structure: Plain text, one or two short paragraphs.
+*   Constraints: No hashtags, no title.
+
+    *   PKBs (like Obsidian, Notion, Roam) are great for capturing info, but the hidden cost is the time spent *organizing, tagging, and linking* rather than actually thinking or creating with that information.
+    *   It's the "organization tax" or "maintenance debt."
+
+    We often build personal knowledge bases to free our minds, but we rarely calculate the hidden maintenance cost: the "organization tax." Every hour spent meticulously tagging notes, refining back-links, and reformatting layouts is an hour you aren't spent creating. If you aren't careful, your digital garden becomes a graveyard of unfinished ideas rather than an engine for thought. The system should serve your curiosity, not become a second job requiring administrative work.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* One paragraph.
+    *   *Constraint check:* No hashtags, no title.
+    *   *Content check:* Explains a hidden maintenance cost.
+
+    We often build personal knowledge bases to free our minds, but we rarely calculate the hidden maintenance cost: the "organization tax." Every hour spent meticulously tagging notes, refining back-links, and reformatting layouts is an hour you aren't spent creating. If you aren't careful, your digital garden becomes a graveyard of unfinished ideas rather than an engine for thought. The system should serve your curiosity, not become a second job requiring constant administrative work.
+
+    *   *Word count:* 84 words. Perfect.<channel|>We often build personal knowledge bases to free our minds, but we rarely calculate the hidden maintenance cost: the "organization tax." Every hour spent meticulously tagging notes, refining back-links, and reformatting layouts is an hour you aren't spent actually creating. If you aren't careful, your digital garden becomes a graveyard of unfinished ideas rather than an engine for deep thought. The system should serve your curiosity, not become a second job requiring constant administrative work.
+total time: 7436.80ms, time per step: 232.40ms (32 steps over 2 blocks, entropy-bound)
+throughput: 68.8 tok/s (512 tok in 7436.80ms), in-step parallel 1102 tok/s (256-tok canvas x 16.0 steps/block)

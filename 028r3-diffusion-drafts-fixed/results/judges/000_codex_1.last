@@ -1,0 +1,12 @@
+[
+  {"id":"n001","winner":"X","reason":"Explains expiring licenses and repeat purchases concretely; Y blurs different payment models."},
+  {"id":"n002","winner":"Y","reason":"Gives a clearer trigger for manual fallback and explains how summarizing helps synthesis."},
+  {"id":"n003","winner":"Y","reason":"Offers a plausible, specific failure and recovery without draft labels or inflated outage claims."},
+  {"id":"n004","winner":"Y","reason":"Connects delaying notification changes to evaluating useful alerts; X conflates settings with software updates."},
+  {"id":"n005","winner":"Y","reason":"Provides a concrete verification lesson; X contains only repeated placeholders."},
+  {"id":"n006","winner":"X","reason":"Both speculate about future improvements, but X avoids Y's sweeping claim that waiting is almost always smarter."},
+  {"id":"n007","winner":"X","reason":"Identifies specific access needs and explains why meeting buffers support participation."},
+  {"id":"n008","winner":"X","reason":"Provides a complete, actionable beginner habit; Y is an unfinished fragment."},
+  {"id":"n009","winner":"Y","reason":"Delivers a complete, focused note with a practical reason to wait; X includes editing scaffolding and truncated alternatives."},
+  {"id":"n010","winner":"X","reason":"Offers an immediately actionable funding habit and a clear explanation of predictable support."}
+]

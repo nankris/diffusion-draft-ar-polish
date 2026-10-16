@@ -1,0 +1,24 @@
+
+<|channel>thought
+*   Topic: Repairable laptops (plausible failure and recovery).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one short paragraph or two, no hashtags, no title.
+
+    *   Failure: A laptop stops charging or won't power on (battery issue).
+    *   Recovery: Opening it up, finding a loose wire or a dead battery, replacing it.
+    *   Theme: Sustainability/DIY.
+
+    *   *Draft 1:* My old laptop suddenly stopped charging last week, the dreaded black screen of death. Instead of tossing it or buying a new one, I opened the chassis and found a simple blown capacitor on the charging board. I ordered a replacement part for five dollars, and now it's running faster than ever. This is exactly why I love repairable hardware. There's something deeply satisfying about saving a piece of technology from the landfill instead of contributing to e-waste.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* No hashtags, no title, one paragraph.
+    *   *Content check:* Plausible failure (blown capacitor) and recovery (replacement).
+
+    "My old laptop suddenly stopped charging last week, the dreaded black screen of death. Instead of tossing it or buying a new one, I opened the chassis and found a simple blown capacitor on the charging board. I ordered a replacement part for five dollars, and now it's running faster than ever. This is exactly why I love repairable hardware. There's something deeply satisfying about saving a piece of technology from the landfill instead of contributing to e-waste."
+
+    *   Words: 82 words.
+    *   Paragraphs: 1.
+    *   No hashtags/title.<channel|>My old laptop suddenly stopped charging last week. Instead of tossing it or buying a new one, I opened the chassis and found a simple blown capacitor on the charging board. I ordered a replacement part for five dollars, and now it's running faster than ever. This is exactly why I love repairable hardware. There is something deeply satisfying about saving a piece of technology from the landfill instead of contributing to the growing problem of e-waste.
+total time: 8546.17ms, time per step: 230.98ms (37 steps over 2 blocks, entropy-bound)
+throughput: 59.9 tok/s (512 tok in 8546.17ms), in-step parallel 1108 tok/s (256-tok canvas x 18.5 steps/block)

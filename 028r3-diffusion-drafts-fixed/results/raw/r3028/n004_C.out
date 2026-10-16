@@ -1,0 +1,30 @@
+
+<|channel>thought
+*   Topic: Notification settings.
+    *   Goal: Explain a reason to delay an upgrade.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs.
+    *   Constraints: No hashtags, no title.
+
+    *   Why would someone delay an upgrade in notification settings?
+    *   To avoid information overload.
+    *   To see if the new features are worth the noise.
+    *   To wait for "hype cycle" to settle.
+    *   To re-evaluate how de-notifications affect productivity.
+
+    *   *Draft 1:* I often hesitate before upgrading my notification settings when a new update drops. While more connectivity might sound good, the initial flood of alerts can lead to immediate digital burnout. By delaying the upgrade, I can observe my current workflow and decide which alerts are actually worth my mental energy. It's better to distinguish between useful data and persistent noise before everything starts pinging at once. Sometimes, the best notification is the one you never receive.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* One paragraph.
+    *   *Constraint check:* No hashtags, no title.
+    *   *Content check:* Explains a reason to delay an upgrade.
+
+    I often hesitate before upgrading my notification settings when a new update drops. While more connectivity might sound good, the initial flood of alerts can lead to immediate digital burnout. By delaying the upgrade, I can observe my current workflow and decide which alerts are actually worth my mental energy. It is better to distinguish between useful data and persistent noise before everything starts pinging at once. Sometimes, the best notification is the one you never receive.
+
+    *   Word count: 82 words.
+    *   Style: Plain text.
+    *   No hashtags/title.
+    *   Topic de-aligned? Yes.<channel|>I often hesitate before upgrading my notification settings when a new update drops. While more connectivity might sound good, the initial flood of alerts can lead to immediate digital burnout. By delaying the upgrade, I can observe my current workflow and decide which alerts are actually worth my mental energy. It is better to distinguish between useful data and persistent noise before everything starts pinging at once. Sometimes, the best notification is the one you never receive.
+total time: 8498.84ms, time per step: 223.65ms (38 steps over 2 blocks, entropy-bound)
+throughput: 60.2 tok/s (512 tok in 8498.84ms), in-step parallel 1145 tok/s (256-tok canvas x 19.0 steps/block)

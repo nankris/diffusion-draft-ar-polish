@@ -1,0 +1,52 @@
+[
+  {
+    "id": "n001",
+    "winner": "X",
+    "reason": "Names the real cost: licenses that expire by borrows or time, forcing repurchase. Y\u2019s infinite shelf and generic subscription bill are less precise."
+  },
+  {
+    "id": "n002",
+    "winner": "Y",
+    "reason": "Specifies when the system feels hollow and why friction helps\u2014compressing ideas instead of pasting them. X stays more abstract."
+  },
+  {
+    "id": "n003",
+    "winner": "Y",
+    "reason": "A clean, plausible outage and recovery in plain text. X is labeled as a draft."
+  },
+  {
+    "id": "n004",
+    "winner": "Y",
+    "reason": "The delay is about alert flood and choosing what deserves attention. X is generic wait-for-bugs advice."
+  },
+  {
+    "id": "n005",
+    "winner": "Y",
+    "reason": "A concrete case: unchecked bit rot beats unused redundancy, so test a restore. X is not a note."
+  },
+  {
+    "id": "n006",
+    "winner": "Y",
+    "reason": "Gives battery density, falling costs, mid-drive value, and a don\u2019t-wait-if-unsafe exception. X\u2019s next-season obsolescence claim is vaguer."
+  },
+  {
+    "id": "n007",
+    "winner": "X",
+    "reason": "More specific on buffers, sensory and physical reset, and chronic conditions, and it has no Tip label."
+  },
+  {
+    "id": "n008",
+    "winner": "X",
+    "reason": "A concrete beginner habit: blank 30-minute blocks on Tuesday and Thursday. Y is cut off mid-sentence."
+  },
+  {
+    "id": "n009",
+    "winner": "Y",
+    "reason": "One complete note on the learning-curve cost of upgrading while overloaded. X is three unfinished drafts with headers."
+  },
+  {
+    "id": "n010",
+    "winner": "X",
+    "reason": "A direct habit\u2014$5\u201310 a month\u2014for predictable maintainer income. Y\u2019s weekly notes rest on a softer trust-to-funding claim."
+  }
+]

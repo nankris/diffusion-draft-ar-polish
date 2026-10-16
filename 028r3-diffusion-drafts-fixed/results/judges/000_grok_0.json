@@ -1,0 +1,52 @@
+[
+  {
+    "id": "n001",
+    "winner": "Y",
+    "reason": "Sharper mechanism: expiring, metered licenses force repeat buys, a more specific and credible hidden cost than a vague subscription bill."
+  },
+  {
+    "id": "n002",
+    "winner": "X",
+    "reason": "Clearer trigger and concrete method\u2014pen and cards compress ideas\u2014versus a vaguer call to turn data into wisdom."
+  },
+  {
+    "id": "n003",
+    "winner": "X",
+    "reason": "Clean, plausible personal failure and recovery; Y is labeled as a draft and inflates an unverifiable outage."
+  },
+  {
+    "id": "n004",
+    "winner": "X",
+    "reason": "The delay is about notification overload and choosing which alerts matter; Y is a generic software-update warning."
+  },
+  {
+    "id": "n005",
+    "winner": "X",
+    "reason": "A specific counterintuitive case\u2014untested backups lost to bit rot\u2014while Y is only repeated placeholder text."
+  },
+  {
+    "id": "n006",
+    "winner": "X",
+    "reason": "More specific tech and a practical exception if the bike is unsafe, with a tighter commute payoff."
+  },
+  {
+    "id": "n007",
+    "winner": "Y",
+    "reason": "Names the blind spot cleanly and makes buffers concrete for neurodivergent people and chronic conditions, without a tip label."
+  },
+  {
+    "id": "n008",
+    "winner": "Y",
+    "reason": "Gives a finished, specific habit\u2014blank 30-minute blocks twice a week\u2014while X is cut off mid-sentence."
+  },
+  {
+    "id": "n009",
+    "winner": "X",
+    "reason": "A complete note on waiting out the learning curve; Y is three unfinished draft options with markdown headers."
+  },
+  {
+    "id": "n010",
+    "winner": "Y",
+    "reason": "The habit is the funding act itself\u2014a small recurring gift\u2014with a clearer, more credible payoff for maintainers."
+  }
+]

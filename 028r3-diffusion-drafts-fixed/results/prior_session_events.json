@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-10-16T00:19:30.851940+00:00",
+    "event_type": "session_created",
+    "endpoint": "gpu-l4-s-kkb-ass1a1-dw66qbf1aun",
+    "variant": "GPU",
+    "accelerator": "L4",
+    "machine_shape": "STANDARD"
+  },
+  {
+    "timestamp": "2026-10-16T01:51:05.148242+00:00",
+    "event_type": "session_terminated",
+    "reason": "pruned"
+  },
+  {
+    "timestamp": "2026-10-16T02:38:35.881436+00:00",
+    "event_type": "session_created",
+    "endpoint": "gpu-l4-s-kkb-ass1a1-2siauvgllnoq7",
+    "variant": "GPU",
+    "accelerator": "L4",
+    "machine_shape": "STANDARD"
+  },
+  {
+    "timestamp": "2026-10-16T02:39:49.816724+00:00",
+    "event_type": "session_terminated",
+    "reason": "user_requested"
+  },
+  {
+    "timestamp": "2026-10-16T02:40:15.787975+00:00",
+    "event_type": "session_created",
+    "endpoint": "gpu-l4-s-kkb-usw4c0-3fjllyzj7rx1k",
+    "variant": "GPU",
+    "accelerator": "L4",
+    "machine_shape": "STANDARD"
+  },
+  {
+    "timestamp": "2026-10-16T02:43:11.930269+00:00",
+    "event_type": "session_terminated",
+    "reason": "user_requested"
+  }
+]

@@ -1,0 +1,29 @@
+
+<|channel>thought
+
+*   Topic: open source funding.
+*   Content: Describe a small reversible experiment.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   What is a small reversible experiment in the context of open source funding?
+    *   Idea 1: A/B testing a donation button.
+    *   Idea 2: Offering a "pay-what-you-want" tier for a feature.
+    *   Idea 3: A limited-time matching fund to see if it de-risk contributions.
+    *   Idea 4: Testing a "sponsorship-only" feature-exclusive de-funded model.
+
+    *   *Draft 1:* I'm trying a small experiment with funding this month. I've added a temporary "sponsorship-only" toggle for a specific module. If it hits a certain threshold, I'll keep it focused there; if not, I'll revert to the standard open-source model. It's a low-stakes way to determine if the community values this specific feature enough to de-risk the development time. Let's see how the market reacts before I commit to a permanent structural change.
+
+    *   *Word count check (Draft 1):* 82 words.
+    *   *Format check:* One paragraph, no hashtags, no title, plain text.
+    *   *Topic check:* Open source funding, reversible experiment.
+
+    *   *Draft 2 (Alternative for clarity):* To better sustain this project, I’m running a small reversible experiment. For the next month, I’m offering a matching fund for all new contributions. If we reach our target, I’ll keep the matching program active to build on growth. If not, I’ll simply revert to our usual funding model. I want to know if de-risking contributions actually increases engagement. It’s a low-cost way to test a hypothesis without burning any bridges.
+
+    *   *Word count check (Draft 2):* 88 words.
+    *   *Format check:* Two paragraphs, no hashtags, no title.
+
+    To better sustain this project, I’m running a small reversible experiment. For the next month, I’m offering a matching fund for
+total time: 11111.46ms, time per step: 217.87ms (51 steps over 2 blocks, entropy-bound)
+throughput: 46.1 tok/s (512 tok in 11111.46ms), in-step parallel 1175 tok/s (256-tok canvas x 25.5 steps/block)

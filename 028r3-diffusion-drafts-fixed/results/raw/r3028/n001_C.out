@@ -1,0 +1,25 @@
+
+<|channel>thought
+
+*   Topic: Public library apps (explaining a hidden maintenance cost).
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Structure: Plain text, one or two paragraphs.
+*   Constraints: No hashtags, no title.
+
+    *   Library apps (like Libby or Hoopla) are great for users but expensive for libraries.
+    *   The "hidden cost" is the digital licensing model (per-use or time-limited access).
+    *   Digital books often cost significantly more than physical ones.
+    *   This strains budgets that could otherwise go to community programs or physical books.
+
+    *   *Draft 1:* We love the convenience of library apps like Libby, but we forget that "free" for us doesn't mean free for the library. Every digital ebook or audiobook we check out carries a hidden maintenance cost: high licensing fees. Unlike physical books that last for decades, digital copies often expire after a set number of borrows or a fixed period. This means libraries must pay repeatedly just to keep their digital shelves stocked, straining budgets that already balance physical collections and community programs.
+
+    *   *Word count check:* 82 words.
+    *   *Format check:* No hashtags, no title, one/two paragraphs.
+    *   *Tone check:* Informative, engaging.
+
+    We love the convenience of library apps like Libby, but we often forget that "free" for readers doesn't mean free for the institution. Every digital ebook or audiobook we check out carries a significant hidden maintenance cost. Unlike physical books that last for decades, digital licenses often expire after a set number of borrows. This means libraries must pay repeatedly to renew access just to keep their digital shelves stocked, straining budgets that are already stretched thin between physical collections and vital community programs.
+
+    *   *Word count check:* 88 words. (Perfect).<channel|>We love the convenience of library apps like Libby, but we often forget that "free" for readers doesn't mean free for the institution. Every digital ebook or audiobook we check out carries a significant hidden maintenance cost. Unlike physical books that last for decades, digital licenses often expire after a set number of borrows. This means libraries must pay repeatedly to renew access just to keep their digital shelves stocked, straining budgets that are already stretched thin between physical collections and vital community programs.
+total time: 8332.02ms, time per step: 225.19ms (37 steps over 2 blocks, entropy-bound)
+throughput: 61.4 tok/s (512 tok in 8332.02ms), in-step parallel 1137 tok/s (256-tok canvas x 18.5 steps/block)

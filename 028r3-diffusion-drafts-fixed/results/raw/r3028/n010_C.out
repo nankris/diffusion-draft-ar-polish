@@ -1,0 +1,46 @@
+
+<|channel>thought
+
+*   Topic: Open source funding.
+*   Goal: Offer a useful beginner habit.
+*   Format: Substack Note.
+*   Constraints: 60-100 words, plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Funding open source is hard for beginners.
+    *   A good habit: Documenting the journey/building in public? Or maybe just consistently asking for small contributions early?
+    *   Best habit: "Building in public" or "Regular progress updates." Let's go with documenting progress weekly to build trust, which invites funding.
+
+    *   *Draft 1:* If you want to start funding your open-source projects, don't wait until the code is perfect. The best beginner habit is to document your progress weekly. Share what you built, the hurdles you faced, and what you're working on next. When people see the effort and transparency behind the scenes, they are much more likely to support you financially. Consistency builds trust, and trust is the foundation of any sustainable funding model.
+
+    *   *Word count check:* 78 words.
+    *   *Format check:* Plain text, one paragraph, no hashtags, no title.
+    *   *Topic check:* Open source funding + beginner habit.
+
+    "If you want to start funding your open-source projects, don't wait until the code is perfect. The best beginner habit is to document your progress weekly. Share what you’ve built, the technical hurdles you faced, and what you’re working on next. When people see the effort and transparency behind the scenes, they are much more likely to support you financially. Consistency builds trust, and trust is the foundation of any sustainable funding model."
+
+    *   *Word count check:*
+        1. If
+        2. you
+        3. want
+        4. to
+        5. start
+        6. funding
+        7. your
+        8. open-source
+        9. projects,
+        10. don't
+        11. wait
+        12. until
+        13. the
+        14. code
+        15. is
+        16. perfect.
+        17. The
+        18. best
+        19. beginner
+        20. habit
+        21. is
+        22. to
+
+total time: 10451.39ms, time per step: 222.37ms (47 steps over 2 blocks, entropy-bound)
+throughput: 49.0 tok/s (512 tok in 10451.39ms), in-step parallel 1151 tok/s (256-tok canvas x 23.5 steps/block)

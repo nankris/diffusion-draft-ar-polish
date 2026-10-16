@@ -1,0 +1,26 @@
+
+<|channel>thought
+*   Topic: AI code review (plausible failure and recovery).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs.
+    *   Constraints: No hashtags, no title.
+
+    *   Failure: AI misses a subtle race condition or a logic error because the code is syntactically correct but architecturally flawed for scale.
+    *   Recovery: The human developer catches the edge case during testing, feeds context back to the AI, and the AI helps generate a more robust test suite or fix.
+
+    *   *Draft 1:* I relied on AI code review for a complex microservice update yesterday. It gave everything the green light, but missed a subtle race condition in the state management that only triggered under high load. Once I caught it during a manual deep dive, I fed the concurrency logs back into the tool to help brainstorm a fix. It’s a good reminder that AI is a great co-pilot for syntax, but not a replacement for deep architectural intuition and edge-case testing.
+
+    *   *word count check:* 82 words.
+    *   *format check:* No hashtags, no title, one paragraph.
+    *   *content check:* Failure (race condition), recovery (feedback loop).
+
+    "I relied on AI code review for a complex microservice update yesterday. It gave everything the green light, but missed a subtle race condition in the state management that only triggered under high load. Once I caught it during a manual deep dive, I fed the concurrency logs back into the tool to help brainstorm a fix. It’s a good reminder that AI is a great co-pilot for syntax, but not a replacement for deep architectural intuition and edge-case testing."
+
+    *   Word count: 82 words.
+    *   Paragraphs: 1.
+    *   Hashtags/Title: None.
+
+    "I recently relied on AI code review for a complex microservice update yesterday. It gave everything the green light, but missed a subtle race condition in the state management that only triggered under high load. Once I caught it during a manual deep dive, I fed the concurrency logs back into the tool to help brainstorm a fix. It’s a good reminder that AI is a great co-pilot for syntax, but not a replacement for deep architectural intuition and
+total time: 8904.06ms, time per step: 222.60ms (40 steps over 2 blocks, entropy-bound)
+throughput: 57.5 tok/s (512 tok in 8904.06ms), in-step parallel 1150 tok/s (256-tok canvas x 20.0 steps/block)

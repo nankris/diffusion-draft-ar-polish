@@ -1,0 +1,44 @@
+
+<|channel>thought
+
+*   Topic: Personal knowledge bases (PKBs): identifying an accessibility blind spot.
+*   Format: Substack Note.
+*   Length: 60-100 words.
+*   Structure: Plain text, one or two short paragraphs.
+*   Constraints: No hashtags, no title.
+
+    *   What are PKBs? (Obsidian, Notion, Roam, etc.)
+    *   What is the blind spot? (Often people focus on deconstruction/linking but forget screen reader compatibility, keyboard-only navigation, or cognitive load/clutter).
+    *   Message: We need to design our digital brains to be accessible to everyone, including future selves.
+
+    We spend so much time building complex personal knowledge bases in tools like Obsidian or Notion, but we often overlook a massive blind spot: accessibility. We obsess over graph views and nested tags while forgetting how these structures fail accessibility tests. If our second brain isn't navigable via screen reader or keyboard-only shortcuts, it's not a tool—it's a barrier. It's time we start thinking about how to make our digital gardens truly universal from day one.
+
+    *   *Word count check:* ~80 words.
+    *   *Format check:* One paragraph, no hashtags, no title.
+    *   *Content check:* Addresses the accessibility blind spot in PKBs.
+
+    *   *Draft 2:* We spend so much time building complex personal knowledge bases in digital tools, but we often overlook a massive blind spot: accessibility. We obsess over graph views and nested tags while forgetting how these structures fail accessibility tests. If our second brain isn't navigable via screen readers or keyboard-only shortcuts, it isn't a tool—it's a barrier. We need to start designing our digital gardens to be universal, ensuring our knowledge remains usable for everyone, forever.
+
+    *   *Word count check:*
+        1. We
+        2. spend
+        3. so
+        4. much
+        5. time
+        6. building
+        7. complex
+        8. personal
+        9. knowledge
+        10. bases
+        11. in
+        12. digital
+        13. tools,
+        14. but
+        15. we
+        16. often
+        17. overlook
+        18. a
+        19. massive
+
+total time: 7852.57ms, time per step: 230.96ms (34 steps over 2 blocks, entropy-bound)
+throughput: 65.2 tok/s (512 tok in 7852.57ms), in-step parallel 1108 tok/s (256-tok canvas x 17.0 steps/block)

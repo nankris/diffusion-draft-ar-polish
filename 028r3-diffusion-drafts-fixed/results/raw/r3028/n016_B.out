@@ -1,0 +1,6 @@
+<|channel>thought
+<channel|>AI code review tools are incredible for catching syntax errors, spotting obvious security vulnerabilities, and enforcing style guides at scale. They act as a tireless first line of defense.
+
+However, they often lack the ability to grasp deep architectural intent or complex business logic. A manual fallback is essential when a PR introduces subtle regressions in system design or edge cases that require human intuition. Use AI to clear the noise, but rely on human eyes to ensure the code actually solves the right problem. [end of text]
+
+

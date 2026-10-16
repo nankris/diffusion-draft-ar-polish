@@ -1,0 +1,29 @@
+
+<|channel>thought
+*   Topic: Open source funding (specifically a hidden maintenance cost).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs.
+    *   Constraints: No hashtags, no title.
+
+    *   Many people think open source is "free" once written.
+    *   The hidden cost is ongoing maintenance: security patches, dependency management, bug fixes, and community support.
+    *   Funding often goes to new features rather than the boring but vital work of keeping the lights on.
+
+    *   *Draft 1:* We often talk about the magic of open source, but we rarely discuss the hidden cost of maintenance. While writing the initial code is a feat, the ongoing work of patching security vulnerabilities, updating dependencies, and responding to issues is a constant drain on effort. Without dedicated funding for this "boring" upkeep, the digital infrastructure we rely on decays invisibly. We need to shift the conversation from just building new to sustaining the people who keep these tools running daily.
+    *   *Word count check:* 82 words.
+    *   *Format check:* One paragraph, no hashtags, no title.
+
+    *   *Draft 2 (splitting into two paragraphs):* We often celebrate the magic of open source but overlook the hidden cost of maintenance. Writing the initial code is a feat, but the constant work of patching security vulnerabilities and managing shifting dependencies is a relentless drain on developer energy.
+    *   Without dedicated funding for this "boring" upkeep, the digital infrastructure we all rely on decays. We must start rewarding the people who keep these tools running, not just those who build new features.
+    *   *Word count check:* 88 words.
+
+    *   60-100 words? Yes (88 words).
+    *   Plain text? Yes.
+    *   One or two paragraphs? Yes (two).
+    *   No hashtags? Yes.
+    *   No title? Yes.<channel|>We often celebrate the magic of open source but overlook the hidden cost of maintenance. Writing the initial code is a feat, but the constant work of patching security vulnerabilities and managing shifting dependencies is a drain on developer energy.
+
+Without dedicated funding for this "boring" upkeep, the digital infrastructure we all rely on slowly decays. We must start rewarding the people
+total time: 8404.25ms, time per step: 227.14ms (37 steps over 2 blocks, entropy-bound)
+throughput: 60.9 tok/s (512 tok in 8404.25ms), in-step parallel 1127 tok/s (256-tok canvas x 18.5 steps/block)

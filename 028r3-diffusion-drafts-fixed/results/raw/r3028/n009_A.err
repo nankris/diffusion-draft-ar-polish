@@ -1,0 +1,40 @@
+0.00.066.727 I llama_completion: llama backend init
+0.00.066.742 I llama_completion: load the model and apply lora adapter, if any
+0.02.040.726 W load: control-looking token:    212 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.041.432 W load: control-looking token:     50 '<|tool_response>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.050.867 W load: control-looking token:      1 '<eos>' was not control-type; this is probably a bug in the model. its type will be overridden
+0.02.080.328 W load: '</s>' is a normal token here, removing it from EOG list
+0.06.925.751 I cmn          init: llama threadpool init, n_threads = 6
+0.07.023.063 W *** User-specified prompt will pre-start conversation, did you mean to set --system-prompt (-sys) instead?
+0.07.023.153 I llama_completion: chat template example:
+<start_of_turn>user
+You are a helpful assistant
+
+Hello<end_of_turn>
+<start_of_turn>model
+Hi there<end_of_turn>
+<start_of_turn>user
+How are you?<end_of_turn>
+<start_of_turn>model
+
+0.07.023.158 I 
+0.07.023.266 I system_info: n_threads = 6 (n_threads_batch = 6) / 12 | CUDA : ARCHS = 890 | USE_GRAPHS = 1 | FA_QUANTS = q4_0-q4_0,q8_0-q8_0,f16-f16,bf16-bf16 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | AVX512 = 1 | AVX512_VNNI = 1 | LLAMAFILE = 1 | OPENMP = 1 | REPACK = 1 | 
+0.07.023.270 I 
+0.07.024.505 I sampler seed: 2812
+0.07.024.532 I sampler params: 
+	repeat_last_n = 64, repeat_penalty = 1.000, frequency_penalty = 0.000, presence_penalty = 0.000
+	dry_multiplier = 0.000, dry_base = 1.750, dry_allowed_length = 2, dry_penalty_last_n = 64
+	top_k = 64, top_p = 0.950, min_p = 0.050, xtc_probability = 0.000, xtc_threshold = 0.100, typical_p = 1.000, top_n_sigma = -1.000, temp = 0.700
+	mirostat = 0, mirostat_lr = 0.100, mirostat_ent = 5.000, adaptive_target = -1.000, adaptive_decay = 0.900
+0.07.024.544 I sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+0.07.024.545 I generate: n_ctx = 4096, n_batch = 2048, n_predict = 300, n_keep = 1
+0.07.024.546 I 
+0.12.672.486 I common_perf_print:    sampling time =     237.97 ms
+0.12.672.489 I common_perf_print:    samplers time =      97.80 ms /   456 tokens
+0.12.672.496 I common_perf_print:        load time =    5444.81 ms
+0.12.672.498 I common_perf_print: prompt eval time =     199.08 ms /   156 tokens (    1.28 ms per token,   783.62 tokens per second)
+0.12.672.500 I common_perf_print:        eval time =    5200.79 ms /   299 runs   (   17.39 ms per token,    57.49 tokens per second)
+0.12.672.501 I common_perf_print:       total time =    5649.45 ms /   455 tokens
+0.12.672.502 I common_perf_print: unaccounted time =      11.61 ms /   0.2 %      (total - sampling - prompt eval - eval) / (total)
+0.12.672.503 I common_perf_print:    graphs reused =        297
+0.12.672.503 I common_perf_print:   graph reallocs =          0    /     0        (same size) / (changed size)

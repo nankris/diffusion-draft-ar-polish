@@ -1,0 +1,8 @@
+Topic: password recovery: discuss a convenience versus control tradeoff
+
+Here is a rough draft of a Substack Note:
+"""
+Password recovery is the ultimate trade-off between convenience and security. When we make recovery easy—through email links or SMS codes—we ensure users don't get locked out forever, but we also open a door for attackers who compromise secondary accounts. Conversely, high-security methods like manual recovery keys offer total control but risk permanent data loss if the user loses their key. In the digital age, we must decide if we value seamless access or ironclad protection.
+"""
+
+Polish it: fix errors, sharpen the wording and the hook, keep it 60-100 words, plain text, no hashtags.

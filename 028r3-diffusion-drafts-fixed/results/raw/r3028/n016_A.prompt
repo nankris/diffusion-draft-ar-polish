@@ -1,0 +1,8 @@
+Topic: AI code review: explain when a manual fallback helps
+
+Here is a rough draft of a Substack Note:
+"""
+AI code review is incredibly fast at catching syntax errors and enforcing style guides, but it is not a silver bullet. Tools often miss nuanced business logic errors or fail to spot architectural drift that a human developer would immediately identify. This is where a manual fallback becomes essential. For high-stakes deployments or complex refactors, a human eye ensures context and security compliance are maintained. Always stay in the loop to ensure you aren't just shipping code that technically works, but code that actually fits your long-term vision.
+"""
+
+Polish it: fix errors, sharpen the wording and the hook, keep it 60-100 words, plain text, no hashtags.

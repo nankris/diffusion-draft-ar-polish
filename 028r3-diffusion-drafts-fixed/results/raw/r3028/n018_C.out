@@ -1,0 +1,26 @@
+
+<|channel>thought
+
+*   Topic: Open source funding.
+*   Goal: Challenge a popular metric with an example.
+*   Format: Substack Note (60-100 words).
+*   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Popular metric: GitHub stars or npm count/downloads.
+    *   Challenge: Stars don't equal maintenance cost or financial de-risking.
+    *   Example: A low-level library used by everyone (like OpenSSL or a compression lib) might have massive downloads but be maintained by one or two burnt-out individuals or underfunded groups.
+
+    *   *Draft 1:*
+        We often judge open source health by GitHub stars or download counts, but these metrics are misleading when it comes to funding. A library might have millions of downloads because it's a foundational dependency, yet if it's maintained by a single volunteer for free, the entire ecosystem is at risk. We need to stop looking at vanity metrics and start funding based on the actual cost of maintenance and security audits rather than just how many people clicked "star."
+
+    *   *word count check:* 82 words.
+        *Criteria check:* 60-100 words? Yes. Plain text? Yes. One/two paragraphs? Yes. No hashtags? Yes. No title? Yes.
+
+    *   *Refining for impact:*
+        We often measure open source health through GitHub stars or download counts, but these metrics fail to capture risk. A foundational library might have millions of downloads because every major framework uses it, yet if it is maintained by just one exhausted person for free, the entire global stack is fragile. We need to shift from valuing popularity to funding based on the actual cost of sustained maintenance and security audits required to keep our digital infrastructure standing upright.
+
+    *   *word count check:* 88 words. Perfect.
+
+    "We often measure open source health through GitHub stars or download counts, but these metrics fail to capture risk. A foundational library might have millions of downloads because every major framework uses it, yet if it is maintained by one exhausted person for free, the entire global stack is fragile. We need to shift from valuing popularity to funding based on the actual cost of sustained maintenance and security audits required to keep our digital infrastructure standing upright."<channel|>We often measure open source health through GitHub stars or download counts, but these metrics fail to
+total time: 11247.17ms, time per step: 224.94ms (50 steps over 2 blocks, entropy-bound)
+throughput: 45.5 tok/s (512 tok in 11247.17ms), in-step parallel 1138 tok/s (256-tok canvas x 25.0 steps/block)

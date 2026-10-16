@@ -1,0 +1,23 @@
+
+<|channel>thought
+*   Topic: Calendar overload and identifying an accessibility blind spot.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs.
+    *   Constraints: No hashtags, no title.
+
+    *   Calendar overload (back-to-back meetings) isn't just a productivity issue.
+    *   It affects people with neurodivergent traits (ADHD, autism) or those with disabilities who need transition time, decompressing, or physical breaks.
+    *   "Back-to-back" is a barrier to accessibility.
+
+    We often talk about calendar overload regarding productivity, but we rarely discuss it as an accessibility blind spot. When we schedule back-to-back meetings without buffers, we are inadvertently excluding neurodivergent colleagues or those with physical disabilities who need transition time. A five-minute gap isn't just a breathing break for some; it's a necessity for others to decompress or manage energy levels. If we want to build truly inclusive workplaces, we have to start respecting the space between the blocks.
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* One paragraph, no hashtags, no title.
+    *   *Content check:* Addresses calendar overload as an accessibility blind spot.
+
+    The draft looks good.
+
+    "We often discuss calendar overload in terms of productivity, but we rarely address it as an accessibility blind spot. When we schedule back-to-back meetings without buffers, we are inadvertently excluding neurodivergent colleagues or those with chronic conditions who need transition time. A five-minute gap isn't just a quick breathing break for some; it is a vital necessity for others to decompress or manage energy levels. To build truly inclusive environments, we must start respecting the empty space between the blocks."<channel|>We often discuss calendar overload in terms of productivity, but we rarely address it as an accessibility blind spot. When we schedule back-to-back meetings without buffers, we are inadvertently excluding neurodivergent colleagues or those with chronic conditions who need transition time. A five-minute gap isn't just a quick breathing break for some; it is a vital necessity for others to decompress, manage energy, or physically reset. To build truly inclusive environments, we must start respecting the empty space between the blocks.
+total time: 8646.64ms, time per step: 227.54ms (38 steps over 2 blocks, entropy-bound)
+throughput: 59.2 tok/s (512 tok in 8646.64ms), in-step parallel 1125 tok/s (256-tok canvas x 19.0 steps/block)

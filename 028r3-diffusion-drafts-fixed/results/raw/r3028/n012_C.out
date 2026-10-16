@@ -1,0 +1,30 @@
+
+<|channel>thought
+*   Topic: Home energy dashboards.
+    *   Focus: Explain a hidden maintenance cost.
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one or two short paragraphs, no hashtags, no title.
+
+    *   Energy dashboards are great for tracking usage.
+    *   The hidden cost: Sensor calibration, software updates, or the "mental load" of troubleshooting data inaccuracies/phantom loads.
+    *   Let's go with the "mental load/data drift" angle.
+
+    *   *Draft 1:* While home energy dashboards are great for spotting high-drain appliances, many people overlook the hidden maintenance cost of data drift. Over time, smart meters and sensors can need manual recalibrations or firmware updates to ensure the readings remain accurate. Without active monitoring of the hardware itself, the time spent troubleshooting "phantom" spikes often offsets the actual savings. It's not just a passive tool; it's a digital appliance that requires its own upkeep.
+
+    *   Word count check: 72 words.
+    *   Format check: One paragraph, no hashtags, no title.
+    *   Content check: Explains a hidden maintenance cost (calibration/drift).
+
+    "While home energy dashboards are great for spotting high-drain appliances, many overlook the hidden maintenance cost of data drift. Over time, smart meters and sensors often need manual recalibration or firmware updates to ensure readings remain accurate. Without active monitoring of the hardware itself, the mental load of troubleshooting 'phantom' spikes can offset your actual energy savings. It isn't just a set-and-forget tool; it's a digital appliance that requires its own periodic upkeep."
+
+    *   Word count: 81 words.
+    *   Structure: One paragraph.
+    *   Hashtags: None.
+    *   Title: None.
+
+    "While home energy dashboards are great for spotting high-drain appliances, many overlook the hidden maintenance cost of data drift. Over time, smart meters and sensors often need manual recalibration or firmware updates to ensure readings remain accurate. Without active monitoring of the hardware itself, the mental load of troubleshooting 'phantom' spikes can easily offset your actual energy savings. It isn't just a set-and-forget tool; it's a digital appliance that requires its own periodic upkeep to stay reliable."
+
+
+total time: 9132.70ms, time per step: 228.32ms (40 steps over 2 blocks, entropy-bound)
+throughput: 56.1 tok/s (512 tok in 9132.70ms), in-step parallel 1121 tok/s (256-tok canvas x 20.0 steps/block)

@@ -1,0 +1,12 @@
+[
+  {"id":"n011","winner":"Y","reason":"Identifies a less obvious cost and makes it concrete through triage, repetitive questions, and mentoring."},
+  {"id":"n012","winner":"X","reason":"Concrete connectivity and integration failures make the maintenance burden tangible; the closing image is memorable."},
+  {"id":"n013","winner":"Y","reason":"Names specific interface barriers with a more measured voice and fewer unsupported rhetorical claims."},
+  {"id":"n014","winner":"X","reason":"A complete, appropriately sized note that explains the tradeoff; Y contains editing commentary and unfinished alternatives."},
+  {"id":"n015","winner":"Y","reason":"Offers a useful decision rule: match handoff rigor to the task, despite some overly absolute claims."},
+  {"id":"n016","winner":"X","reason":"Explains the role of contextual human review without Y's implausible claim that humans identify complex flaws instantly."},
+  {"id":"n017","winner":"X","reason":"The recovery timeline is more plausible, and the daily commitment avoids equating passive video watching with learning."},
+  {"id":"n018","winner":"Y","reason":"Suggests actionable alternative metrics and avoids dismissing documentation contributors as low value."},
+  {"id":"n019","winner":"X","reason":"Uses a recognizable schedule and a pointed question; Y invents a metric and muddles its time arithmetic."},
+  {"id":"n020","winner":"X","reason":"Explains how stale notes create ongoing retrieval costs, with specific maintenance tasks and a clear consequence."}
+]

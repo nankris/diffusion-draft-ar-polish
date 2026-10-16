@@ -1,0 +1,8 @@
+Topic: AI code review: describe a plausible failure and recovery
+
+Here is a rough draft of a Substack Note:
+"""
+*Draft 1:* I relied on AI code review for a complex microservice update yesterday. It gave everything the green light, but missed a subtle race condition in the state management that only triggered under high load. Once I caught it during a manual deep dive, I fed the concurrency logs back into the tool to help brainstorm a fix. It’s a good reminder that AI is a great co-pilot for syntax, but not a replacement for deep architectural intuition and edge-case testing.
+"""
+
+Polish it: fix errors, sharpen the wording and the hook, keep it 60-100 words, plain text, no hashtags.

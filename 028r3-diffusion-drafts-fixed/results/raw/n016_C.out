@@ -1,0 +1,22 @@
+
+<|channel>thought
+*   Topic: AI code review (when a manual fallback helps).
+    *   Format: Substack Note.
+    *   Length: 60-100 words.
+    *   Style: Plain text, one short paragraph or two.
+    *   Constraints: No hashtags, no title.
+
+    *   AI is great for catching syntax errors and common patterns.
+    *   However, it lacks context regarding business logic or specific edge-case security.
+    *   Manual fallback is needed for high-stakes code, complex architecture, or ensuring the logic aligns with long-term project goals.
+
+    AI code review is incredibly fast at catching syntax errors and enforcing style guides, but it isn't a silver bullet. The tool often misses nuanced business logic errors or fails to spot architectural drift that a human would immediately identify. This is where a manual fallback becomes essential. For high-stakes deployments or complex refactors, a human eye ensures context and security compliance. Always stay in the loop to ensure you aren't just shipping code that works, but code that actually belongs.
+
+    *   *Word count check:* 88 words.
+    *   *Format check:* One paragraph.
+    *   *Constraint check:* No hashtags, no title.
+    *   *Content check:* Explains when manual fallback helps.
+
+    AI code review is incredibly fast at catching syntax errors and enforcing style guides, but it is not a silver bullet. Tools often miss nuanced business logic errors or fail to spot architectural drift that a human would immediately identify. This is where a manual fallback becomes essential. For high-stakes deployments or complex refactors, a human eye ensures context and security compliance are maintained. Always stay in the loop to ensure you aren't just shipping code that works, but code that actually fits your long-term vision.<channel|>AI code review is incredibly fast at catching syntax errors and enforcing style guides, but it is not a silver bullet. Tools often miss nuanced business logic errors or fail to spot architectural drift that a human developer would immediately identify. This is where a manual fallback becomes essential. For high-stakes deployments or complex refactors, a human eye ensures context and security compliance are maintained. Always stay in the loop to ensure you aren't just shipping code that technically works, but code that actually fits your long-term vision.
+total time: 9196.52ms, time per step: 224.31ms (41 steps over 2 blocks, entropy-bound)
+throughput: 55.7 tok/s (512 tok in 9196.52ms), in-step parallel 1141 tok/s (256-tok canvas x 20.5 steps/block)
